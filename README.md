@@ -9,8 +9,8 @@
 ### Spotify Playing 🎧
 [<img src="https://spotify-now-playing.vercel.app/api/spotify-playing" alt="ko1596 Spotify Playing" width="350" />](https://open.spotify.com/user/ko1596)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ko1596)](https://github.com/anuraghazra/github-readme-stats)
 
-![ko1596's github stats](https://github-readme-stats.vercel.app/api?username=ko1596&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
 
 
 <!---
@@ -58,5 +58,5 @@ You can click the Preview link to take a look at your changes.
 [instagram]: https://www.instagram.com/chenghengke/
 [linkedin]: https://www.linkedin.com/in/cheng-heng-%E6%9F%AF%E6%89%BF%E4%BA%A8-ke-b70896165/
 
----
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ko1596)](https://github.com/anuraghazra/github-readme-stats)
+
+![ko1596's github stats](https://github-readme-stats.vercel.app/api?username=ko1596&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
