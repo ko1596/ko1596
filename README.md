@@ -10,7 +10,7 @@
 <img align="center" src="https://raw.githubusercontent.com/Aniket965/Aniket965/master/pacman.svg?sanitize=true" width="200" height="200">
 
 
-![sbwml's github stats](https://github-readme-stats.vercel.app/api?username=ko1596&show_icons=true&theme=dracula&count_private=true)
+![sbwml's github stats](https://github-readme-stats.vercel.app/api?username=ko1596&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
 
 
 <!---
