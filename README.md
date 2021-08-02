@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @ko1596
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+### Hi there, I'm Joey 👋
+
+## I'm a Student, Developer, and Intern!!
+- 🖥 I like to explore computer related things 
+- 🌱 I’m currently learning everything 🤣
 
 
 ![ko1596's github stats](https://github-readme-stats.vercel.app/api?username=ko1596&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
