@@ -3,7 +3,11 @@
 ## I'm a Student, Developer, and Intern!!
 - 🖥 I like to explore computer related things 
 - 🌱 I’m currently learning everything 🤣
+- ⚡ Fun fact: I love to draw and play guitar
+- 🥅 2021 Goals: Finish my university studies 
 
+### Spotify Playing 🎧
+[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/ko1596)
 
 ![ko1596's github stats](https://github-readme-stats.vercel.app/api?username=ko1596&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ko1596)](https://github.com/anuraghazra/github-readme-stats)
