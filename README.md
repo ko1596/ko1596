@@ -8,20 +8,14 @@
 
 ### Spotify Playing 🎧
 [<img src="https://spotify-now-playing.vercel.app/api/spotify-playing" alt="ko1596 Spotify Playing" width="350" />](https://open.spotify.com/user/ko1596)
-
 ---
-
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ko1596)](https://github.com/anuraghazra/github-readme-stats)
 <img src="https://raw.githubusercontent.com/Aniket965/Aniket965/master/pacman.svg?sanitize=true" width="200" height="200">
 ---
-
-
 <!---
 ko1596/ko1596 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-
 ### Connect with me:
 
 [<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
