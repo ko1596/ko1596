@@ -10,8 +10,8 @@
 <img align="center" src="https://raw.githubusercontent.com/Aniket965/Aniket965/master/pacman.svg?sanitize=true" width="200" height="200">
 
 
-![sbwml's github stats](https://github-readme-stats.vercel.app/api?username=ko1596&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
-
+![ko1596's github stats](https://github-readme-stats.vercel.app/api?username=ko1596&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ko1596)](https://github.com/anuraghazra/github-readme-stats)
 
 <!---
 ko1596/ko1596 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
