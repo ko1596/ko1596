@@ -7,7 +7,7 @@
 - 🥅 2021 Goals: Finish my university studies 
 
 ### Spotify Playing 🎧
-[<img src="https://spotify-now-playing.vercel.app/api/spotify-playing" alt="ko1596 Spotify Playing" width="350" />](https://open.spotify.com/user/ko1596)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=ko1596&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile)
 ---
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ko1596)](https://github.com/anuraghazra/github-readme-stats)
 <img src="https://raw.githubusercontent.com/Aniket965/Aniket965/master/pacman.svg?sanitize=true" width="200" height="200">
